@@ -34,9 +34,12 @@ takes the opposite route — it is a **design compiler**:
 |---|---|
 | ![demo1](images/demo1-pentest.png) | ![demo2](images/demo2-coffee.png) |
 
-| Bengali online course (Instagram square, sticker cards) |
-|---|
-| ![demo3](images/demo3-bangla.png) |
+**50 topics. 50 different designs. One engine.** A style wall generated from
+50 different topics — fitness, real estate, restaurants, clinics, salons,
+schools, travel, law, bakeries and more. Every tile is a unique combination
+of layout, theme, card style, decor and font pairing:
+
+![50 designs, 50 topics, one engine](images/styles-collage-50.png)
 
 ## Quick start
 
